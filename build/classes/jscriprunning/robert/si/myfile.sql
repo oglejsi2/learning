@@ -1,0 +1,1 @@
+create table brisi(i number);
